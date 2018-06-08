@@ -1,0 +1,7 @@
+README.md
+setup.py
+allcalc/__init__.py
+allcalc.egg-info/PKG-INFO
+allcalc.egg-info/SOURCES.txt
+allcalc.egg-info/dependency_links.txt
+allcalc.egg-info/top_level.txt

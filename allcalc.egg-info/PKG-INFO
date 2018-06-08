@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: allcalc
+Version: 1.0
+Summary: A python package that can convert lengths
+Home-page: https://github.com/xeon-python/allcalc/
+Author: xeon-python
+Author-email: iamlaserbeak@gmail.com
+License: UNKNOWN
+Description: allcalc:
+            By xeon-python.
+            https://github.com/xeon-python/allcalc
+        Description:
+            A python package that can convert lengths
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License ::  MIT License
+Description-Content-Type: text/markdown
